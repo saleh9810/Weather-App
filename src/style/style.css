@@ -1,0 +1,53 @@
+body {
+    background: url('../public/body.jpg') center left;
+    width: 100%;
+    height: 100%;
+}
+
+.error {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);   
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+ 
+.cart {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+    width: 100%;
+    height: 400px;
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+    color: #fff;
+    padding-top: 65px;
+   
+}
+
+.cart h2 {
+   
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+}
+.cart i {
+    font-size: 90px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+ 
+}
+.cart h4 {
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    margin-top: 10px;
+}
+
