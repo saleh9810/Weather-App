@@ -29,7 +29,6 @@ import { fetchWeather } from '../actions'
                 <input
                     onChange={this.onInputChange}
                     value={this.state.term}
-                    placeholder="Find"
                     className="form-control"
                  />
                 <span className="input-group-btn">

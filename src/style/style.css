@@ -1,7 +1,17 @@
 body {
-    background: url('../public/body.jpg') center left;
+    background:linear-gradient(to left,rgb(30, 35, 112), rgb(29, 137, 190));
     width: 100%;
     height: 100%;
+}
+
+.title {
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgba(12, 12, 12, 0.555);
 }
 
 .error {
