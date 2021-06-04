@@ -29,7 +29,7 @@ import { fetchWeather } from '../actions'
                 <input
                     onChange={this.onInputChange}
                     value={this.state.term}
-                    placeholder="Find out the average weather for the next five days"
+                    placeholder="Find"
                     className="form-control"
                  />
                 <span className="input-group-btn">
